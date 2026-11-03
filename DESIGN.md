@@ -1,6 +1,6 @@
 # Design: LLM spend agent
 
-Author: Ananmay Narain. Status: draft for review. Requirements: `project-brief-llm-spend-agent.md`.
+Author: Ananmay Narain. Status: draft for review.
 
 ## 1. Problem and users
 
